@@ -13,9 +13,9 @@ OneWire oneWire(ONE_WIRE_BUS);
 DallasTemperature DS18B20(&oneWire);
 float prevTemp = 0;
 const char* server = "api.thingspeak.com";
-String apiKey ="NE5HSDOR2SCNNOZ7";
-const char* MY_SSID = "PRAMOD"
-const char* MY_PWD = "priya@444";
+String apiKey =""; #your thingspeak api key
+const char* MY_SSID = "" # your SSID
+const char* MY_PWD = ""; # The password of your network
 int sent = 0;
 
 void connectWifi()
