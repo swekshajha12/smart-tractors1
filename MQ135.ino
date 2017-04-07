@@ -1,7 +1,7 @@
-const int gasSensor =0;
+const int gasSensor =0; 
 void setup()
 {
-  Serial.begin(9600);
+  Serial.begin(9600);  // setup the baud rate
   // put your setup code here, to run once:
 
 }
