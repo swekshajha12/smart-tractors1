@@ -1,6 +1,6 @@
 <h1>smart-tractors</h1>
 <h2>Overview</h2>
-<p>A project in IOT that senses gases emitted from the tractor using gas sensors MQ135 and if the emission value is more than the threshold a value it sends it to the cloud (THingspeak)<p>
+<p>A project in IOT that senses gases emitted from the tractor using gas sensors MQ135 and if the emission value is more than the threshold  value it sends it to the cloud (THingspeak)<p>
 <h2>Components</h2>
 <li>MQ135 gas sensor</li>
 <li>Node mcu</li>
