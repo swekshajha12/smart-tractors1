@@ -17,4 +17,4 @@
 <li>#we are thinking of using the pressure sensors to measure the tyre pressure so that 
       the person gets to knows that the pressure is too low that it can get puntured and can
       take action likewise</li>
-<li>#We also plan to send all these data to thingspeak and take an automated action once the threshold is broken</li>
+<li>#We also plan to send all these data to Thingspeak and take an automated action once the threshold is broken</li>
